@@ -1,4 +1,4 @@
-rgname                 = "test-piyush-rg"
+rgname                 = "test-deepak-rg"
 location               = "canadacentral"
-service_principal_name = "test-piyush-spn"
-keyvault_name          = "test-piyush-kv"
+service_principal_name = "test-deepak-spn"
+keyvault_name          = "test-deepak-kv"
